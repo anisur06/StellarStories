@@ -102,8 +102,18 @@
                     <a href="#stories"
                         class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-8 rounded-full text-lg transition-transform duration-300 transform hover:scale-105">Read
                         Stories</a>
+                    <!-- Fun Fact Button -->
+                    <div id="fun-fact-container" class="mt-6">
+                        <button id="show-fact-btn"
+                            class="bg-yellow-400 text-gray-900 font-bold px-6 py-3 rounded-lg hover:bg-yellow-300 transition">
+                            Show a Fun Fact 🌟
+                        </button>
+                        <p id="fun-fact-text" class="mt-4 text-yellow-200 text-lg"></p>
+                    </div>
                 </div>
-            </section>
+
+        </div>
+        </section>
         </div>
 
         <!-- Stories Grid View -->
@@ -624,6 +634,25 @@
             window.addEventListener('hashchange', router);
             router();
         });
+        //funfacts
+        const funFacts = [
+            "💡 Solar flares can reach temperatures of over 10 million °C!",
+            "💡 The auroras on Earth are caused by solar wind interacting with our magnetic field.",
+            "💡 GPS satellites can be temporarily disrupted by solar storms.",
+            "💡 The Sun emits more energy in one second than humans have used in all of history.",
+            "💡 A solar storm in 1859, called the Carrington Event, caused telegraph systems to fail worldwide!"
+        ];
+
+        let currentFactIndex = 0;
+
+        const factText = document.getElementById('fun-fact-text');
+        const factBtn = document.getElementById('show-fact-btn');
+
+        factBtn.addEventListener('click', () => {
+            factText.textContent = funFacts[currentFactIndex];
+            currentFactIndex = (currentFactIndex + 1) % funFacts.length; // loop back to first fact
+        });
+
     </script>
 </body>
 
