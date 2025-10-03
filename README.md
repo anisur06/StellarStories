@@ -42,8 +42,11 @@ Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar
 Here’s what you’ll find in this repository:
 
 Stellar-Stories/
+
 │
+
 ├── index.html       → Main web page of Stellar Stories (open this in any browser to use the app or go to https://anisur06.github.io/StellarStories/ )
+
 ├── README.md        → This file, containing project info, instructions, and references
 
 How to use:
