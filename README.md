@@ -30,11 +30,17 @@ Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar
 
 📚 References
 We used the following resources to build and inform our project:
+
 NASA Space Weather Website: https://science.nasa.gov/heliophysics/focus-areas/space-weather/
+
 Brazilian Space Weather Study and Monitoring Program (EMBRACE): https://www2.inpe.br/climaespacial/portal/pt/
+
 Solar Storms and Flares: Space Weather: https://science.nasa.gov/sun/solar-storms-and-flares/
+
 NOAA's Space Weather Prediction Center: https://www.swpc.noaa.gov/
+
 Space Weather Centers of Excellence: https://science.nasa.gov/space-weather-centers-of-excellence/
+
 How Solar Flares Affect Earth: https://svs.gsfc.nasa.gov/12640/
 
 👨‍💻 Team – CRAZYY_5
