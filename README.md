@@ -36,6 +36,7 @@ Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar
 
 
 📚 References
+
 We used the following resources to build and inform our project:
 
 NASA Space Weather Website: https://science.nasa.gov/heliophysics/focus-areas/space-weather/
@@ -52,6 +53,7 @@ How Solar Flares Affect Earth: https://svs.gsfc.nasa.gov/12640/
 
 
 👨‍💻 Team – CRAZYY_5
+
 Anisur – Web Development, Video Editor, Designer
 
 Munira – Story Narrator, Story writer, Script Writer
@@ -64,5 +66,6 @@ Tuhin – Researcher
 
 
 📚 Project Background
+
 This project was created for the NASA Space Apps Challenge 2025.
 The goal is to help kids and students understand the importance of space weather through storytelling, visuals, and interactive learning.
