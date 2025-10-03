@@ -25,11 +25,13 @@ Explore Stellar Stories online:
 🛠️ Tech Stack
 
 Code: HTML (all-in-one, Just one HTML file, but a fully interactive and visually engaging web app, easy to run and ready to explore!)
+
 Other Tools: HTML5, NASA APIs, Canva, Gemini NANO Banana, Capcut
 
 🔗 API
 
 API Used: https://api.nasa.gov/
+
 Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar wind parameters.
          https://apod.nasa.gov/apod/astropix.html 
          https://ccmc.gsfc.nasa.gov/tools/DONKI/
