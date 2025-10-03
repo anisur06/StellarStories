@@ -1,8 +1,10 @@
 🌟 Stellar Stories
+
 Stellar Stories is a digital storytelling web app that explains space weather—solar flares, coronal mass ejections (CMEs), and solar winds—in a fun, visual, and easy-to-understand way.
 It transforms complex science into colorful, interactive stories for children, students, and educators.
 
 🚀 Features
+
    📖 Multiple Stories – Narratives from astronauts, farmers, pilots, solar flares, and more.
    🎨 Kid-Friendly Illustrations – Visuals that make learning enjoyable.
    🌍 Real-World Impacts – Shows how space weather affects GPS, flights, farming, astronauts, and daily life.
@@ -11,18 +13,22 @@ It transforms complex science into colorful, interactive stories for children, s
    🧩 Interactive Choices – Users can pick characters and explore unique storylines.
 
 🎥 Video Demo
+
 Check out our project video here:
 👉 Video Link: https://youtu.be/Rf7MogpN1-k
 
 🌐 Live Website
+
 Explore Stellar Stories online: 
 👉WebApp Link: https://anisur06.github.io/StellarStories/
 
 🛠️ Tech Stack
+
 Code: HTML (all-in-one, Just one HTML file, but a fully interactive and visually engaging web app, easy to run and ready to explore!)
 Other Tools: HTML5, NASA APIs, Canva, Gemini NANO Banana, Capcut
 
 🔗 API
+
 API Used: https://api.nasa.gov/
 Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar wind parameters.
          https://apod.nasa.gov/apod/astropix.html 
