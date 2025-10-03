@@ -28,6 +28,7 @@ Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar
          https://apod.nasa.gov/apod/astropix.html 
          https://ccmc.gsfc.nasa.gov/tools/DONKI/
 
+
 📚 References
 We used the following resources to build and inform our project:
 
@@ -43,12 +44,18 @@ Space Weather Centers of Excellence: https://science.nasa.gov/space-weather-cent
 
 How Solar Flares Affect Earth: https://svs.gsfc.nasa.gov/12640/
 
+
 👨‍💻 Team – CRAZYY_5
 Anisur – Web Development, Video Editor, Designer
+
 Munira – Story Narrator, Story writer, Script Writer
+
 Jagannath – Researcher, Story writer
+
 Hasibur – Researcher
+
 Tuhin – Researcher
+
 
 📚 Project Background
 This project was created for the NASA Space Apps Challenge 2025.
