@@ -76,6 +76,8 @@ How Solar Flares Affect Earth: https://svs.gsfc.nasa.gov/12640/
 
 CCMC DONKI System: https://ccmc.gsfc.nasa.gov/tools/DONKI/
 
+Astronomy Picture of the Day API: https://apod.nasa.gov/apod/astropix.html
+
 👨‍💻 Team – CRAZYY_5
 
 Anisur – Web Development, Video Editor, Designer
