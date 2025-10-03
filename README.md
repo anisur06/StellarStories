@@ -35,6 +35,24 @@ Purpose: Fetches real-time space weather data like solar flares, CMEs, and solar
          https://ccmc.gsfc.nasa.gov/tools/DONKI/
 
 
+📂 Project Structure / GitHub Page
+
+Here’s what you’ll find in this repository:
+
+Stellar-Stories/
+│
+├── index.html       → Main web page of Stellar Stories (open this in any browser to use the app or go to https://anisur06.github.io/StellarStories/ )
+├── README.md        → This file, containing project info, instructions, and references
+
+How to use:
+
+Download or clone the repository.
+
+Open index.html in your web browser.
+
+Explore all the stories, illustrations, and interactive features—no setup required!
+
+
 📚 References
 
 We used the following resources to build and inform our project:
