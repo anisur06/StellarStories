@@ -90,6 +90,17 @@ Hasibur – Researcher
 
 Tuhin – Researcher
 
+📚All AI-generated materials were clearly credited in the project & here
+
+Gemini was used to assist in writing and refining the web application code.
+
+Gemini Nano Banana was used to create most of the images and illustrations used in our web app.
+
+All AI-generated images include a visible watermark indicating they were created using AI.
+
+ChatGPT was used to help develop and improve some of the educational stories and written content.
+
+No audio or video in our project was generated using AI tools.
 
 📚 Project Background
 
